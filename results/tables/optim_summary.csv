@@ -1,0 +1,5 @@
+metodo,f1_test_melhor,f1_test_pior,f1_test_media,f1_test_dp,recall_media,evals,tempo_s
+Manual (baseline),0.346,0.346,0.346,0.0,0.265,1,0.0
+AG,0.595,0.559,0.576,0.014,0.488,2040,17.411
+PSO,0.578,0.503,0.544,0.025,0.475,1530,38.5
+Aleatoria,0.509,0.439,0.477,0.024,0.416,2040,17.376
