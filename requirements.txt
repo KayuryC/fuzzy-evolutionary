@@ -1,0 +1,16 @@
+# Nucleo do projeto (versoes testadas indicadas como referencia).
+numpy>=1.23
+pandas>=1.5
+matplotlib>=3.6
+scikit-learn>=1.1        # apenas split/conferencia; metricas sao proprias
+
+# Notebooks (Parte 1 e Parte 2).
+notebook>=6.5
+jupyter>=1.0
+ipykernel>=6.0
+
+# Geracao dos PDFs (relatorios e slides) via tools/build_pdfs.py.
+reportlab>=4.0
+
+# Opcional: cross-check do motor Mamdani proprio contra a referencia.
+# scikit-fuzzy>=0.4.2

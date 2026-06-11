@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+venv/
+*.zip
+# Resultados sao regenerados pelos scripts; versionamos apenas o que entra no relatorio.
+results/figures/*.tmp
